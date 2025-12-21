@@ -25,17 +25,8 @@ I enjoy building clean, modern, and secure web applications.
 
 ---
 
-## 📈 Currently Learning
-- Advanced Java & Spring
-- Secure Web Applications
-- Software Architecture
-
----
-
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/zakariae-lahmar
 - Email: zakariaelahmaar24@gmail.com
 
 ---
-
-⭐ Feel free to check out my repositories and projects!
