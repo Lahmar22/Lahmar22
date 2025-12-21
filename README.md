@@ -27,6 +27,6 @@ I enjoy building clean, modern, and secure web applications.
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/zakariae-lahmar
-- Email: zakariaelahmaar24@gmail.com
+- Email: zakariaelahmar24@gmail.com
 
 ---
