@@ -10,7 +10,7 @@ I’m a passionate **Full Stack Web Developer** with experience in:
 - HTML, CSS, Tailwind CSS
 - JavaScript
 - PHP, Java
-- Lavavel
+- Laravel
 - React js
 - Git & GitHub
 - Agile / Scrum
